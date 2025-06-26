@@ -67,7 +67,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-3. OR Visit [Deployed Link](https://weather-forecast.vercel.app) to test the app in the browser.
+3. OR Visit [Deployed Link](https://weather-forecast-gamma-five.vercel.app) to test the app in the browser.
 
 ## Dependencies
 
